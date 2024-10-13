@@ -1,0 +1,10 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'XORNORCircuit.vhd'
+]
+[libraries.work]
+files = [
+	'XORNORCircuit.vhd'
+]
+# auto-generated-end

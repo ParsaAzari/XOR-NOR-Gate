@@ -1,0 +1,8 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="XORNORCircuit.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>XORNORCircuit.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>
