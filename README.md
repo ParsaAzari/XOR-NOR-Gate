@@ -5,7 +5,6 @@ The XOR-NOR Circuit is a digital logic circuit that implements both XOR and NOR 
 
 ## Entity
 
-Entity
 
 The entity defines the inputs and outputs of the XOR-NOR circuit. It specifies the signal types and establishes the interface for the circuit.
 
@@ -21,8 +20,6 @@ entity XOR_NOR_Circuits is
 end entity XOR_NOR_Circuits;
 ```
 ## Architecture
-
-Architecture
 
 The architecture implements the functionality of the XOR-NOR circuit. It defines how the output signals are derived from the input signals using logical operations.
 
